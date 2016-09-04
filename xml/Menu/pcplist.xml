@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<menu>
+  <item>
+    <path>civicrm/pcplist/tab</path>
+    <page_callback>CRM_Pcplist_Page_Tab</page_callback>
+    <title>PersonalCampaignPagesList</title>
+    <access_arguments>access CiviCRM, view users's Personal Campaign Pages.</access_arguments>
+  </item>
+</menu>
